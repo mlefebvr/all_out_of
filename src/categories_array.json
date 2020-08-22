@@ -1,0 +1,78 @@
+[
+    {
+        "fruits": {
+            "name": "Fruits"
+        },
+        "vegetables": {
+            "name": "Vegetables"
+        },
+        "canned_goods": {
+            "name": "Canned Goods"
+        },
+        "frozen_foods": {
+            "name": "Frozen Foods"
+        }   
+    },
+    {
+        "meat_and_fish": {
+            "name": "Meat & Fish"
+        },
+        "deli": {
+            "name": "Deli"
+        },
+        "spices": {
+            "name": "Spices"
+        },
+        "condiments": {
+            "name": "Condiments"
+        },
+        "sauces_and_oils": {
+            "name": "Sauces & Oils"
+        }
+    },
+    {
+        "vegetarian": {
+            "name": "Vegetarian"
+        },
+        "snacks": {
+            "name": "Snacks"
+        },
+        "breads": {
+            "name": "Breads"
+        },
+        "beverages": {
+            "name": "Beverages"
+        }
+    },
+    {
+        "dairy": {
+            "name": "Dairy"
+        },
+        "pasta": {
+            "name": "Pasta"
+        },
+        "baking": {
+            "name": "Baking"
+        },
+        "cereal": {
+            "name": "Cereal"
+        },
+        "toiletries": {
+            "name": "Toiletries"
+        }
+    },
+    {
+        "pet_items": {
+            "name": "Pet Items"
+        },
+        "paper_and_wrap": {
+            "name": "Paper & Wrap"
+        },
+        "household": {
+            "name": "Household"
+        },
+        "almost_forgot": {
+            "name": "Oh Yeah, And..."
+        }
+    }
+]

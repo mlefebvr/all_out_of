@@ -1,0 +1,281 @@
+[
+{
+    "fruits": {
+        "name": "Fruits",
+        "items": [
+            "Apples",
+            "Bananas",
+            "Oranges",
+            "Berries",
+            "Grapes",
+            "Melons",
+            "Kiwis"
+        ]
+    },
+    "vegetables": {
+        "name": "Vegetables",
+        "items": [
+            "Broccoli",
+            "Carrots",
+            "Cucumbers",
+            "Garlic",
+            "Lettuce",
+            "Mushrooms",
+            "Onions",
+            "Peppers",
+            "Potatoes",
+            "Tomatoes",
+            "Zucchini"
+        ]
+    },
+    "canned_goods": {
+        "name": "Canned Goods",
+        "items": [
+            "Beans",
+            "Fruit",
+            "Soup",
+            "Tomato Sauce",
+            "Pasta Sauce",
+            "Tuna fish",
+            "Vegetables"
+        ]
+    },
+    "dried_goods": {
+        "name": "Dried Goods",
+        "items": [
+            "Soy Beans",
+            "Chia Seeds",
+            "Fruit",
+            "Nuts"
+        ]        
+    },
+    "frozen_foods": {
+        "name": "Frozen Foods",
+        "items": [
+            "Meals",
+            "Pizza",
+            "Potatoes",
+            "Vegetables",
+            "Fruits",
+            "Waffles",
+            "Ice Cream"
+        ]
+    },  
+    "meat_and_fish": {
+        "name": "Meat & Fish",
+        "items": [
+            "Beef",
+            "Pork",
+            "Chicken",
+            "Turkey",
+            "Fish",
+            "Bacon",
+            "Sausage"
+        ]
+    },
+    "deli": {
+        "name": "Deli",
+        "items": [
+            "Cold Cuts",
+            "Cheese",
+            "Salad",
+            "Olives"
+        ]
+    },
+    "spices": {
+        "name": "Spices",
+        "items": [
+            "Salt",
+            "Pepper",
+            "Garlic Salt",
+            "Garlic Powder",
+            "Onion Powder"
+        ]
+    },
+    "condiments": {
+        "name": "Condiments",
+        "items": [
+            "Peanut Butter",
+            "Jam",
+            "Jelly",
+            "Honey",
+            "Mayo",
+            "Mustard",
+            "Ketchup",
+            "Pickles",
+            "Olives",
+            "Relish"
+        ]
+    },
+    "sauces_and_oils": {
+        "name": "Sauces & Oils",
+        "items": [
+            "BBQ sauce",
+            "Tartar sauce",
+            "Olive Oil",
+            "Vinegar",
+            "Apple Cider Vinegar",
+            "Salad dressing",
+            "Soy Sauce",
+            "Pasta Sauce",
+            "Syrup"
+        ]
+    },
+    "vegetarian": {
+        "name": "Vegetarian",
+        "items": [
+            "Tofu",
+            "Hummus",
+            "Soy Milk"
+        ]
+    },
+    "snacks": {
+        "name": "Snacks",
+        "items": [
+            "Pretzels",
+            "Cookies",
+            "Chips",
+            "Dip",
+            "Salsa",
+            "Crackers",
+            "Candies",
+            "Chocolate Bars",
+            "Nuts",
+            "Popcorn",
+            "Raisins",
+            "Snack Bars"
+        ]
+    },
+    "breads": {
+        "name": "Breads",
+        "items": [
+            "White",
+            "Multigrain",
+            "Baguette",
+            "Bagels",
+            "Muffins",
+            "Pita",
+            "Tortillas"
+        ]
+    },
+    "beverages": {
+        "name": "Beverages",
+        "items": [
+            "Water",
+            "Pop",
+            "Juice",
+            "Coffee",
+            "Tea",
+            "Gatorade"
+        ]
+    },
+    "dairy": {
+        "name": "Dairy",
+        "items": [
+            "Milk",
+            "Butter",
+            "Margarine",
+            "Eggs",
+            "Cheese",
+            "Cream Cheese",
+            "Yogurt",
+            "Coffee Cream"
+        ]
+    },
+    "pasta": {
+        "name": "Pasta & Rice",
+        "items": [
+            "Spaghetti",
+            "Macaroni",
+            "Shells",
+            "Fusili",
+            "White Rice",
+            "Brown Rice",
+            "Kraft Dinner"
+        ]
+    },
+    "baking": {
+        "name": "Baking",
+        "items": [
+            "Yeast",
+            "Sugar",
+            "Flour",
+            "Pancake Mix",
+            "Vanilla",
+            "Corn Starch",
+            "Baking Powder",
+            "Gravy Mix",
+            "Chicken broth",
+            "Chocolate",
+            "Chocolate chips",
+            "Shredded coconut"
+        ]
+    },
+    "cereal": {
+        "name": "Cereal",
+        "items": [
+            "Oatmeal",
+            "Breakfast Cereals",
+            "Cream of wheat",
+            "Granola"
+        ]
+    },
+    "toiletries": {
+        "name": "Toiletries",
+        "items": [
+            "Soap",
+            "Shampoo",
+            "Conditioner",
+            "Razors",
+            "Shaving Cream",
+            "Lotion",
+            "Toothpaste",
+            "Floss",
+            "Pain pills"
+        ]
+    },
+    "pet_items": {
+        "name": "Pet Items",
+        "items": [
+            "Cat Food",
+            "Cat Treats",
+            "Cat Litter"
+        ]
+    },
+    "paper_and_wrap": {
+        "name": "Paper & Wrap",
+        "items": [
+            "Toilet Paper",
+            "Paper Towels",
+            "Tissues",
+            "Napkins",
+            "Aluminum Foil",
+            "Plastic Wrap",
+            "Parchment Paper",
+            "Wax Paper",
+            "Sandwich Bags"
+        ]
+    },
+    "household": {
+        "name": "Household",
+        "items": [
+            "Garbage Bags",
+            "Laundry Detergent",
+            "Laundry Softener",
+            "Bleach",
+            "Dishwasher Tabs",
+            "Dish Soap",
+            "Hand Soap",
+            "Household Cleaner",
+            "Glass Cleaner",
+            "Sponges",
+            "Batteries",
+            "Light Bulbs"
+        ]
+    },
+    "almost_forgot": {
+        "name": "Oh Yeah, And...",
+        "items": []
+    }
+}
+]
